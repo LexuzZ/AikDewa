@@ -127,7 +127,7 @@ html {
 .about,
 .car,
 .contact {
-  padding: 5rem 9% 1.8rem;
+  padding: 5rem 7% 1.8rem;
   margin-top: 4rem;
 }
 .about h2,
@@ -478,6 +478,8 @@ main {
   }
   .contact .menu-card-img {
     width: 30rem;
+    height:15rem;
+    margin-left:5rem;
    
   }
   article p {
